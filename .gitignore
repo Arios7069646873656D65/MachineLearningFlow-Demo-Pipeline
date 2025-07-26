@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+.idea/
+
+
+mlruns/
+*.db
+
+
+*.pkl
+*.log
+*.csv
+*.tsv

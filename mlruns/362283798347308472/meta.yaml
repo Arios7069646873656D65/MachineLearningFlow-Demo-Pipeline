@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/HP/PycharmProjects/MachineLearningFlow-Demo-Pipeline/mlruns/362283798347308472
+creation_time: 1753498389520
+experiment_id: '362283798347308472'
+last_update_time: 1753498389520
+lifecycle_stage: active
+name: Iris LogisticRegression

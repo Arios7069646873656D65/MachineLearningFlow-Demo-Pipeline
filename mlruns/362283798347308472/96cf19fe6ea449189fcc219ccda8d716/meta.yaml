@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/PycharmProjects/MachineLearningFlow-Demo-Pipeline/mlruns/362283798347308472/96cf19fe6ea449189fcc219ccda8d716/artifacts
+end_time: 1753498389797
+entry_point_name: ''
+experiment_id: '362283798347308472'
+lifecycle_stage: active
+run_id: 96cf19fe6ea449189fcc219ccda8d716
+run_name: stately-smelt-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753498389722
+status: 4
+tags: []
+user_id: HP
